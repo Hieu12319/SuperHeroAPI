@@ -3,9 +3,9 @@ Superhero Search Engine URL: https://hieu12319.github.io/SuperHeroAPI/
 SuperHERO API: https://superheroapi.com/
 
 #Technology used
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 -jQuery
 -vscode
 -Github
