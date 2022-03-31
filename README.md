@@ -6,17 +6,17 @@ SuperHERO API: https://superheroapi.com/
 - HTML
 - CSS
 - JavaScript
--jQuery
--vscode
--Github
+- jQuery
+- vscode
+- Github
 
 ##Getting started
--I made a simple psuedocode for what i needed done.
--Keep It Simple.
--Have fun!
+- I made a simple psuedocode for what i needed done.
+- Keep It Simple.
+- Have fun!
 
 
 ###Future Enhancements
--I want to make a favorite option for SuperHeros
--Have more than one SuperHero Showing the different stats 
--have the SuperHeros fight.
+- I want to make a favorite option for SuperHeros
+- Have more than one SuperHero Showing the different stats 
+- have the SuperHeros fight.
