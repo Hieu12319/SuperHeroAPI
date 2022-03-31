@@ -11,8 +11,10 @@ SuperHERO API: https://superheroapi.com/
 - CSS
 - JavaScript
 - jQuery
+- BootStrap
 - vscode
 - Github
+
 
 ##Getting started
 - I made a simple psuedocode for what i needed done.
